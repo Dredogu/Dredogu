@@ -1,6 +1,6 @@
 ![About me](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-#Dogukan Aksoy
+# Dogukan Aksoy
 
 ## About me
 I'm learning C++,Java and Python.
