@@ -11,6 +11,9 @@ I'm developing projects.
 * 📱 JAVA
 * 📡 PYTHON
 
+## Examples of Work
+<img src="https://media2.giphy.com/media/LtGpcWj3donEg3Doj2/giphy.webp?cid=ecf05e47sf25ehe8no9t2n0inwmnd1iy5p6rwy193t8kv4mj&rid=giphy.webp&ct=g" with=256 />
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dredogu)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dredogu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
