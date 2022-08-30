@@ -1,9 +1,12 @@
 ### Hi there 👋, Dogukan Aksoy
-#### Development 
+
+![About me](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
+
+#### About me
 I'm learning C++,Java and Python.
 I'm developing projects.
 
-Skills: C++ / Java / Python
+Skills: C++ / JAVA / PYTHON
 
 - 🔭 I’m currently working on this page. 
 
