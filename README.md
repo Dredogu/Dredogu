@@ -1,12 +1,15 @@
-### Hi there 👋, Dogukan Aksoy
-
 ![About me](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-#### About me
+#Dogukan Aksoy
+
+## About me
 I'm learning C++,Java and Python.
 I'm developing projects.
 
-Skills: C++ / JAVA / PYTHON
+## Skills and Experience
+* 🎮 C++
+* 📱 JAVA
+* 📡 PYTGON
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dredogu)](https://github.com/anuraghazra/github-readme-stats)
