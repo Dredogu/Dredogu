@@ -29,3 +29,5 @@ I'm developing projects.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dredogu&layout=compact&show_icons=true&theme=radical)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dredogu)
+
+![](https://komarev.com/ghpvc/?username=Dredogu&color=blueviolet)
