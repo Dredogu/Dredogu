@@ -20,4 +20,4 @@ I'm developing projects.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dredogu)
 
-<img src="https://camo.githubusercontent.com/29737e4ea5b16693ece00f6a56ab6d197cd277c730ca91c52dd8573d6de266af/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b6e657469633026636f6c6f723d626c7565" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=Dredogu&amp;color=purple" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/29737e4ea5b16693ece00f6a56ab6d197cd277c730ca91c52dd8573d6de266af/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b6e657469633026636f6c6f723d626c7565" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=Dredogu&amp;color=red" style="max-width: 100%;">
