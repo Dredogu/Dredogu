@@ -18,9 +18,9 @@ I'm developing projects.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"></p>
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/golang/golang-ar21.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"></p>
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/golang/golang-ar21.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"></p>
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/postgresql/postgresql-vertical.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"></p>
+<img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"></p>
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"></p>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"></p>
 
 ## GitHub Stats
 ![Dogukan GitHub stats](https://github-readme-stats.vercel.app/api?username=Dredogu&show_icons=true&theme=radical)
